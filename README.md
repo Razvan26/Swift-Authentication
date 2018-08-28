@@ -19,6 +19,6 @@ Login Screen :
 
 ![webp net-resizeimage-5](https://user-images.githubusercontent.com/34929885/44626795-add67100-a92b-11e8-9c9d-51092704925c.png)
 
-Profile Screnn :
+Profile Screen :
 
 ![webp net-resizeimage-6](https://user-images.githubusercontent.com/34929885/44682451-14eb4700-aa4c-11e8-9442-62c7eae72d87.png)
